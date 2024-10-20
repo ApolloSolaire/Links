@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
   { steam = "https://steamcommunity.com/profiles/AnBlueLemon/" },
-  { bluesky = "https://bsky.app/profile/AnBlueLemon" },
+  { bluesky = "https://bsky.app/profile/rileydam.com" },
   { instagram = "https://www.instagram.com/anbluelemon/" },
   { twitter = "https://twitter.com/AnBlueLemon" },
     # { discord = "https://discord.gg/invitelink"},
