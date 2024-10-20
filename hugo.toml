@@ -14,7 +14,7 @@ disableKinds = ["taxonomy", "term"]
   image = "img/pfp.jpg"  # path relative to static directory
 
   links = [
-  { steam = "https://steamcommunity.com/profiles/AnBlueLemon/" },
+  { steam = "https://steamcommunity.com/id/AnBlueLemon/" },
   { bluesky = "https://bsky.app/profile/rileydam.com" },
   { instagram = "https://www.instagram.com/anbluelemon/" },
   { twitter = "https://twitter.com/AnBlueLemon" },
